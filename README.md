@@ -29,5 +29,3 @@ Solved by:
 ## Instructions :
 - Make sure you have TensorFlow and FastAI, you will find guidance for installing these packages when they are needed.
 - You should upload the public_data from the challenge website, if you want to run the files
-- The whole project zipfile is so heavy, if you want to upload it, you can use the link below, it expires on January, 28th:
-    https://filesender.renater.fr/?s=download&token=2aebf8ea-163d-43b9-b71c-5021aeaac27e
