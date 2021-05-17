@@ -1,7 +1,7 @@
 # Aerial-Image-Recognition
 The goal is to make submissions to Aerial Image Recognition challenge and to explore various machine learning techniques.
 
-We will find here 3 different models. The first model is a Basic CNN that provides 50% accuracy. The second model is a FastAI pretrained model resnet18, it provides 95 accuracy made. The last mode is built with TensorFlow, it provides 81% accuracy.
+We will find here 3 different models. The first model is a Basic CNN that provides 50% accuracy. The second model is a FastAI pretrained model resnet18, it provides 95% accuracy made. The last mode is built with TensorFlow, it provides 81% accuracy.
 
 
 The challenge can be found here: https://competitions.codalab.org/competitions/27749
