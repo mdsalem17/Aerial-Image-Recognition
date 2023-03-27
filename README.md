@@ -19,8 +19,8 @@ Solved by:
 ├── tf_image_data               - contains the training images with the right directory structure, so that tensorflow can operate
 ├── public_data                 - contains all available data in plain text format
 |
-└── starting_kit                - contient les fichiers sources (.cpp) et entêtes (.h).
-    ├── BasicCNN.ipynb          - contient the BasicCNN model with the answers to the asked questions with 50% accuracy (+/- 2%)
+└── starting_kit                
+    ├── BasicCNN.ipynb          - contains the BasicCNN model with the answers to the asked questions with 50% accuracy (+/- 2%)
     ├── tensorflow_model.ipynb  - contains the tensorflow model with 81% accuracy (+/- 5%)
     ├── fastai_model.ipynb      - contains the best model built with FastAI with 95% accuracy (+/- 2%)
 └──
